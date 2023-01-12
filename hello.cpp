@@ -13,6 +13,9 @@ void bubblesort(){
 void mergesort(){
     //
 }
+void countingsort(){
+    //
+}
 int main() {
     std::cout << "Hello World!";
     std::cout << "Rajan";
