@@ -2,12 +2,15 @@
 
 #include <iostream>
 
-quicksort(){
+void quicksort(){
     //
 }
 
 void bubblesort(){
 
+    //
+}
+void mergesort(){
     //
 }
 int main() {
