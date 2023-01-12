@@ -1,7 +1,13 @@
 // Your First C++ Program
 
 #include <iostream>
+
 quicksort(){
+    //
+}
+
+void bubblesort(){
+
     //
 }
 int main() {
